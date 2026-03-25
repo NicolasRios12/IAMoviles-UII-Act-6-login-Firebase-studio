@@ -11,7 +11,7 @@ La aplicación sigue una paleta de colores profesional y relajante, orientada a 
 
 ---
 
-## 📱 Estructura de Navegación
+## Estructura de Navegación
 
 ### 1. Pantalla Principal (`main.dart`)
 
